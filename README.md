@@ -1,6 +1,6 @@
 # Frontend Mentor - Huddle landing page with curved sections solution
 
-This is a solution to the [Huddle landing page with curved sections challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-curved-sections-5ca5ecd01e82137ec91a50f2). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Fylo landing page with two column layout challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -40,8 +40,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Github](https://github.com/ayra-sa/frontendMentor_huddle-landing-page-with-curved-sections-master)
-- Live Site URL: [Live Site](https://ayra-sa.github.io/frontendMentor_huddle-landing-page-with-curved-sections-master/)
+- Solution URL: [Github](https://github.com/ayra-sa/frontendMentor_Fylo-landing-page-with-two-column-layout)
+- Live Site URL: [Live Site](https://ayra-sa.github.io/frontendMentor_Fylo-landing-page-with-two-column-layout/)
 
 ## My process
 
